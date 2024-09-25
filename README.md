@@ -1,4 +1,3 @@
-Here's a sample README for your "Coding and Programming Aptitude" GitHub repository:
 
 ---
 
@@ -20,7 +19,6 @@ This repository covers key areas essential for acing coding interviews, competit
 
 Challenges and solutions are written in various programming languages to offer a diverse learning experience:
 
-- **C++**
 - **Java**
 - **Python**
 - **JavaScript**
@@ -46,7 +44,7 @@ Challenges and solutions are written in various programming languages to offer a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/coding-and-programming-aptitude.git
+   git clone https://github.com/vaibhavpal7549/Coding-and-Programming-Aptitude.git
    ```
 2. Explore the folders based on the topics you're interested in.
 3. Start solving challenges and improve your coding aptitude!
@@ -57,7 +55,7 @@ Contributions are welcome! Feel free to submit pull requests with additional pro
 
 ## 🧑‍💻 Author
 
-Vaibhav Pal(https://github.com/vaibhavpal7549)
+Vaibhav Pal (https://github.com/vaibhavpal7549)
 
 ---
 
